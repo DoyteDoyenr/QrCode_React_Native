@@ -13,9 +13,9 @@ This application is a QR Code scanner developed with React Native and TypeScript
 Here are some screenshots showcasing the app's functionality:
 
 <p float="left">
-  <img src="https://github.com/DoyteDoyenr/QrCode_React_Native/assets/83921750/0b34fed6-2bab-4b32-90c6-e94830db8440" width="280" />
-  <img src="https://github.com/DoyteDoyenr/QrCode_React_Native/assets/83921750/efba45de-db49-465f-86e6-a6ebe1c1a4ca" width="280" /> 
-  <img src="https://github.com/DoyteDoyenr/QrCode_React_Native/assets/83921750/43eda100-0805-48d3-bc63-a8f6428eef71" width="280" />
+  <img src="https://github.com/DoyteDoyenr/QrCode_React_Native/assets/83921750/0b34fed6-2bab-4b32-90c6-e94830db8440" width="250" />
+  <img src="https://github.com/DoyteDoyenr/QrCode_React_Native/assets/83921750/efba45de-db49-465f-86e6-a6ebe1c1a4ca" width="250" /> 
+  <img src="https://github.com/DoyteDoyenr/QrCode_React_Native/assets/83921750/43eda100-0805-48d3-bc63-a8f6428eef71" width="250" />
 </p>
 
 ## Technologies Used
